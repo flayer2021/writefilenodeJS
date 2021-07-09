@@ -1,0 +1,2 @@
+# writefilenodeJS
+CURSO NODEJS CRIANDO ARQUIVO NATIVO "fs"
